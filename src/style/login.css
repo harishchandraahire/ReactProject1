@@ -1,0 +1,16 @@
+
+.btndes{
+    height: 30px;
+    width: 50px;
+    border: 2px solid red;
+    box-shadow: 5px 5px 5px black;
+}
+
+.contain{
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    background-color: rgb(253, 253, 252);
+    height: 550px;
+    font-size: small;
+    
+}
